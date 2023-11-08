@@ -10,3 +10,5 @@
 
 ###### Heading 6
 **Note: Headings have to be followed by a space below them**
+
+![kenedy olisi profile image](https://avatars.githubusercontent.com/u/66219869?v=4)
