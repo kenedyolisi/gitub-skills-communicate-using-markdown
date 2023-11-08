@@ -18,3 +18,13 @@ for (var i = 0; i < 5; i++) {
   setTimeout(() => console.log(i), 1000) // prints 5, 5 times
 }
 ```
+
+## Add a task list
+
+### My Frontend Development Roadmap checklist
+
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [ ] Markdown
+- [ ] React
